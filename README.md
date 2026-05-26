@@ -172,26 +172,6 @@ The notebook:
    macro avg       0.87      0.81      0.81      2500
 ```
 
----
-
-## 📁 Repository Structure
-
-```
-student-success-prediction/
-│
-├── notebooks/
-│   ├── Final_project_FINAL.ipynb              # Full training pipeline
-│   ├── FINAL_production_notebook_FINAL.ipynb  # Production notebook (v1)
-│   └── FINAL_production_notebook_FINAL_new.ipynb  # Production notebook (v2 — final)
-│
-├── models/
-│   ├── student_success_model.pkl              # Trained sklearn Pipeline
-│   └── model_features.pkl                    # Feature list for production
-│
-└── README.md
-```
-
----
 
 ## 🛠️ Tech Stack
 
